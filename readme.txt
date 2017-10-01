@@ -4,7 +4,7 @@ Donate link: https://www.jevuska.com/donate/
 Tags: browser, user-agent, ucbrowser, chrome
 Requires at least: 1.5
 Tested up to: 4.8
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -29,10 +29,16 @@ Browser blocking and redirect to another one for your WordPress, i.e UC Browser 
 Browser Blocking plugin appeareance
 
 == Changelog ==
+* 1.0.1 = October 01, 2017
+ * Fixes user-agent
+ 
 * 1.0.0 = October 01, 2017
  * First official release!
 
 == Upgrade Notice ==
+= v1.0.1 =
+Updagrade Immediately!
+
 = v1.0.0 =
 First official release!
 

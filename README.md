@@ -26,10 +26,16 @@ Browser Blocking plugin appeareance
 ![screenshot](screenshot.jpg)
 
 ## Changelog
+* 1.0.1 = October 01, 2017
+ * Fixes user-agent
+ 
 * 1.0.0 = October 01, 2017
  * First official release!
 
 ## Upgrade Notice
+###### v1.0.1 =
+Updagrade Immediately!
+
 ###### v1.0.0 =
 First official release!
 
